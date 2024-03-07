@@ -9,5 +9,5 @@ export default {
 
 <template>
     <Hero media="http://placekitten.com/1024" title="Velkommen til min forside"></Hero>
-    <main style="background-color: yellow; padding: 2rem">Hello From HomeView!</main>
+    <main style="background-color: yellow; padding: 2rem">Hello From HomeView! Updateded!</main>
 </template>
